@@ -1,2 +1,2 @@
-# basicbankingsystem
-INTERNSHIP TASK FOR GRIPSEP21
+# basic-banking-system
+The Sparks Foundation's Internship program.
